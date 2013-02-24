@@ -14,7 +14,6 @@ package simple_test_01.view
         public function Button()
         {
             super();
-
         }
     }
 }

@@ -2,18 +2,17 @@
  *
  * User: Ildar Gafarov badprogrammist@gmail.com
  * Date: 24.02.13
- * Time: 12:49
+ * Time: 17:22
  *
  */
-package hdvcs.context
+package hdvcs.controller
 {
     import flash.display.DisplayObjectContainer;
 
-    import hdvcs.abstractions.IExecutor;
+    import hdvcs.abstractions.IProvider;
 
-    public interface IContext extends IExecutor
+    public interface IController extends IProvider
     {
         function GetContextView():DisplayObjectContainer;
-        function OnCreate():void;
     }
 }

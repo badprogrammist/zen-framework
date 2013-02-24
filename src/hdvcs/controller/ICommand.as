@@ -11,5 +11,6 @@ package hdvcs.controller
 
     public interface ICommand extends IExecutor
     {
+        function GetController():IController;
     }
 }

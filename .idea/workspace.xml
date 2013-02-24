@@ -4,9 +4,9 @@
     <list default="true" id="972a2449-1de2-4823-a9da-a2dcb641cfe4" name="Default" comment="" />
     <ignored path="HDVCS.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/fragment.js2" changelist="972a2449-1de2-4823-a9da-a2dcb641cfe4" time="1361693524226" ignored="false" />
-    <file path="/HDVCS.as" changelist="972a2449-1de2-4823-a9da-a2dcb641cfe4" time="1361623830535" ignored="false" />
-    <file path="/a.as" changelist="972a2449-1de2-4823-a9da-a2dcb641cfe4" time="1361604761214" ignored="false" />
+    <file path="/fragment.js2" changelist="972a2449-1de2-4823-a9da-a2dcb641cfe4" time="1361710035274" ignored="false" />
+    <file path="/HDVCS.as" changelist="972a2449-1de2-4823-a9da-a2dcb641cfe4" time="1361705648349" ignored="false" />
+    <file path="/a.as" changelist="972a2449-1de2-4823-a9da-a2dcb641cfe4" time="1361704735051" ignored="false" />
     <file path="/IData.as" changelist="972a2449-1de2-4823-a9da-a2dcb641cfe4" time="1361688989273" ignored="false" />
     <file path="/Listener.as" changelist="972a2449-1de2-4823-a9da-a2dcb641cfe4" time="1361611630054" ignored="false" />
     <file path="/IExecutor.as" changelist="972a2449-1de2-4823-a9da-a2dcb641cfe4" time="1361616843608" ignored="false" />
@@ -18,19 +18,26 @@
     <file path="/ITask.as" changelist="972a2449-1de2-4823-a9da-a2dcb641cfe4" time="1361624971591" ignored="false" />
     <file path="/Task.as" changelist="972a2449-1de2-4823-a9da-a2dcb641cfe4" time="1361623314234" ignored="false" />
     <file path="/TraceNumber.as" changelist="972a2449-1de2-4823-a9da-a2dcb641cfe4" time="1361617535973" ignored="false" />
-    <file path="/Controller.as" changelist="972a2449-1de2-4823-a9da-a2dcb641cfe4" time="1361624484242" ignored="false" />
+    <file path="/Controller.as" changelist="972a2449-1de2-4823-a9da-a2dcb641cfe4" time="1361706347600" ignored="false" />
     <file path="/IService.as" changelist="972a2449-1de2-4823-a9da-a2dcb641cfe4" time="1361624680794" ignored="false" />
     <file path="/IServiceManager.as" changelist="972a2449-1de2-4823-a9da-a2dcb641cfe4" time="1361624808547" ignored="false" />
     <file path="/ServiceManager.as" changelist="972a2449-1de2-4823-a9da-a2dcb641cfe4" time="1361625080702" ignored="false" />
-    <file path="/ICommand.as" changelist="972a2449-1de2-4823-a9da-a2dcb641cfe4" time="1361688335551" ignored="false" />
-    <file path="/IMediator.as" changelist="972a2449-1de2-4823-a9da-a2dcb641cfe4" time="1361688487688" ignored="false" />
-    <file path="/IContext.as" changelist="972a2449-1de2-4823-a9da-a2dcb641cfe4" time="1361688555628" ignored="false" />
+    <file path="/ICommand.as" changelist="972a2449-1de2-4823-a9da-a2dcb641cfe4" time="1361709514601" ignored="false" />
+    <file path="/IMediator.as" changelist="972a2449-1de2-4823-a9da-a2dcb641cfe4" time="1361708669299" ignored="false" />
+    <file path="/IContext.as" changelist="972a2449-1de2-4823-a9da-a2dcb641cfe4" time="1361709884069" ignored="false" />
     <file path="/Data.as" changelist="972a2449-1de2-4823-a9da-a2dcb641cfe4" time="1361688629809" ignored="false" />
     <file path="/IProxy.as" changelist="972a2449-1de2-4823-a9da-a2dcb641cfe4" time="1361688893679" ignored="false" />
     <file path="/IWritebl.as" changelist="972a2449-1de2-4823-a9da-a2dcb641cfe4" time="1361688940855" ignored="false" />
     <file path="/IReadable.as" changelist="972a2449-1de2-4823-a9da-a2dcb641cfe4" time="1361688965499" ignored="false" />
     <file path="/Proxy.as" changelist="972a2449-1de2-4823-a9da-a2dcb641cfe4" time="1361689075258" ignored="false" />
     <file path="/Button.as" changelist="972a2449-1de2-4823-a9da-a2dcb641cfe4" time="1361693545624" ignored="false" />
+    <file path="/Mediator.as" changelist="972a2449-1de2-4823-a9da-a2dcb641cfe4" time="1361709031478" ignored="false" />
+    <file path="/IController.as" changelist="972a2449-1de2-4823-a9da-a2dcb641cfe4" time="1361705973065" ignored="false" />
+    <file path="/ButtonMediator.as" changelist="972a2449-1de2-4823-a9da-a2dcb641cfe4" time="1361709176967" ignored="false" />
+    <file path="/Context.as" changelist="972a2449-1de2-4823-a9da-a2dcb641cfe4" time="1361709832618" ignored="false" />
+    <file path="/Command.as" changelist="972a2449-1de2-4823-a9da-a2dcb641cfe4" time="1361709605691" ignored="false" />
+    <file path="/MyCommand.as" changelist="972a2449-1de2-4823-a9da-a2dcb641cfe4" time="1361709706896" ignored="false" />
+    <file path="/MediatorManager.as" changelist="972a2449-1de2-4823-a9da-a2dcb641cfe4" time="1361710096698" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -89,10 +96,93 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="Button.as" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/simple_test_01/view/Button.as">
+      <file leaf-file-name="Command.as" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/hdvcs/controller/Command.as">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="16" column="12" selection-start="268" selection-end="268" vertical-scroll-proportion="0.24958402">
+            <state line="26" column="30" selection-start="534" selection-end="534" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MyCommand.as" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/simple_test_01/controller/MyCommand.as">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="7" column="33" selection-start="128" selection-end="128" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="T1Context.as" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/simple_test_01/T1Context.as">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="20" column="0" selection-start="377" selection-end="377" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="IContext.as" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/hdvcs/context/IContext.as">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="11" column="40" selection-start="209" selection-end="209" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="IMediatorManager.as" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/hdvcs/view/IMediatorManager.as">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="9" column="21" selection-start="137" selection-end="137" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="IServiceManager.as" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/hdvcs/service/IServiceManager.as">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ServiceManager.as" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/hdvcs/service/ServiceManager.as">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Mediator.as" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/hdvcs/view/Mediator.as">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="17" column="55" selection-start="350" selection-end="350" vertical-scroll-proportion="0.28546712">
+              <folding>
+                <element signature="e#121#153#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MediatorManager.as" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/hdvcs/view/MediatorManager.as">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="16" column="37" selection-start="381" selection-end="381" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Context.as" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/hdvcs/context/Context.as">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="24" column="23" selection-start="631" selection-end="631" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -108,22 +198,22 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/src/Provider.as" />
-        <option value="$PROJECT_DIR$/src/hdvcs/Provider.as" />
-        <option value="$PROJECT_DIR$/src/hdvcs/service/IService.as" />
-        <option value="$PROJECT_DIR$/src/hdvcs/service/ServiceManager.as" />
+        <option value="$PROJECT_DIR$/src/HDVCS.as" />
+        <option value="$PROJECT_DIR$/src/hdvcs/controller/IController.as" />
         <option value="$PROJECT_DIR$/src/hdvcs/controller/Controller.as" />
-        <option value="$PROJECT_DIR$/src/hdvcs/controller/ICommand.as" />
-        <option value="$PROJECT_DIR$/src/hdvcs/IMediator.as" />
-        <option value="$PROJECT_DIR$/src/hdvcs/context/IContext.as" />
-        <option value="$PROJECT_DIR$/src/hdvcs/data/IProxy.as" />
-        <option value="$PROJECT_DIR$/src/hdvcs/data/IWritebl.as" />
-        <option value="$PROJECT_DIR$/src/hdvcs/data/IReadable.as" />
-        <option value="$PROJECT_DIR$/src/hdvcs/data/IData.as" />
-        <option value="$PROJECT_DIR$/src/hdvcs/data/Data.as" />
-        <option value="$PROJECT_DIR$/src/hdvcs/data/Proxy.as" />
         <option value="$PROJECT_DIR$/src/hdvcs/view/IMediator.as" />
-        <option value="$PROJECT_DIR$/src/simple_test_01/view/Button.as" />
+        <option value="$PROJECT_DIR$/src/hdvcs/abstractions/IClient.as" />
+        <option value="$PROJECT_DIR$/src/hdvcs/view/Mediator.as" />
+        <option value="$PROJECT_DIR$/src/simple_test_01/view/ButtonMediator.as" />
+        <option value="$PROJECT_DIR$/src/hdvcs/controller/ICommand.as" />
+        <option value="$PROJECT_DIR$/src/hdvcs/controller/Command.as" />
+        <option value="$PROJECT_DIR$/src/simple_test_01/view/MyCommand.as" />
+        <option value="$PROJECT_DIR$/src/simple_test_01/d.as" />
+        <option value="$PROJECT_DIR$/src/simple_test_01/T1Context.as" />
+        <option value="$PROJECT_DIR$/src/hdvcs/context/Context.as" />
+        <option value="$PROJECT_DIR$/src/hdvcs/context/IContext.as" />
+        <option value="$PROJECT_DIR$/src/hdvcs/view/IMediatorManager.as" />
+        <option value="$PROJECT_DIR$/src/hdvcs/view/MediatorManager.as" />
       </list>
     </option>
   </component>
@@ -161,6 +251,7 @@
       <sortByType />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -175,7 +266,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="HDVCS" />
+              <option name="myItemId" value="zen-framework" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -185,7 +276,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="HDVCS" />
+              <option name="myItemId" value="zen-framework" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -193,136 +284,193 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="HDVCS" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="zen-framework" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="simple_test_01" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="HDVCS" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="zen-framework" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="simple_test_01" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="view" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="HDVCS" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="zen-framework" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="simple_test_01" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="controller" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="HDVCS" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="zen-framework" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="hdvcs" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="HDVCS" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="zen-framework" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="hdvcs" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="view" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="HDVCS" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="zen-framework" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="hdvcs" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="service" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="HDVCS" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="zen-framework" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="hdvcs" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="context" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
       <pane id="Scope" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="options.splitter.main.proportions" value="0.3" />
-    <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../LIBRARY/FlexSDK/runtimes/player/11.1/lnx/flashplayerdebugger" />
-    <property name="GoToClass.toSaveIncludeLibraries" value="false" />
-    <property name="project.structure.last.edited" value="SDKs" />
-    <property name="recentsLimit" value="5" />
-    <property name="options.searchVisible" value="true" />
-    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="MemberChooser.copyJavadoc" value="false" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="GoToClass.includeLibraries" value="false" />
+    <property name="options.searchVisible" value="true" />
+    <property name="options.lastSelected" value="project.propVCSSupport.Mappings" />
+    <property name="options.splitter.main.proportions" value="0.3" />
+    <property name="GoToClass.toSaveIncludeLibraries" value="false" />
     <property name="MemberChooser.showClasses" value="true" />
-    <property name="options.splitter.details.proportions" value="0.2" />
-    <property name="options.lastSelected" value="preferences.sourceCode.ActionScript" />
+    <property name="project.structure.last.edited" value="SDKs" />
     <property name="MemberChooser.sorted" value="false" />
-    <property name="MemberChooser.copyJavadoc" value="false" />
     <property name="GoToFile.includeJavaFiles" value="false" />
+    <property name="recentsLimit" value="5" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../LIBRARY/FlexSDK/runtimes/player/11.1/lnx/flashplayerdebugger" />
     <property name="restartRequiresConfirmation" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
   </component>
   <component name="RecentsManager">
+    <key name="CreateActionScriptClassDialog.DESTINATION_PACKAGE_RECENT_KEY">
+      <recent name="hdvcs.view" />
+      <recent name="simple_test_01" />
+      <recent name="simple_test_01.view" />
+      <recent name="hdvcs.controller" />
+      <recent name="hdvcs.context" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/simple_test_01/controller" />
       <recent name="$PROJECT_DIR$/src/hdvcs/view" />
       <recent name="$PROJECT_DIR$/src/hdvcs" />
       <recent name="$PROJECT_DIR$/src/task" />
       <recent name="$PROJECT_DIR$/src/abstractions" />
     </key>
-    <key name="CreateActionScriptClassDialog.DESTINATION_PACKAGE_RECENT_KEY">
-      <recent name="simple_test_01.view" />
-      <recent name="hdvcs.data" />
-      <recent name="hdvcs.context" />
-      <recent name="hdvcs" />
-      <recent name="hdvcs.controller" />
-    </key>
   </component>
   <component name="RunManager" selected="Flash App.HDVCS">
-    <configuration default="true" type="TestNG" factoryName="TestNG">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <module name="" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="SUITE_NAME" />
-      <option name="PACKAGE_NAME" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="METHOD_NAME" />
-      <option name="GROUP_NAME" />
-      <option name="TEST_OBJECT" value="CLASS" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="OUTPUT_DIRECTORY" />
-      <option name="ANNOTATION_TYPE" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="moduleWithDependencies" />
-      </option>
-      <option name="USE_DEFAULT_REPORTERS" value="false" />
-      <option name="PROPERTIES_FILE" />
-      <envs />
-      <properties />
-      <listeners />
-      <method />
-    </configuration>
-    <configuration default="true" type="Applet" factoryName="Applet">
-      <module name="" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="HTML_FILE_NAME" />
-      <option name="HTML_USED" value="false" />
-      <option name="WIDTH" value="400" />
-      <option name="HEIGHT" value="300" />
-      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
-      <option name="VM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <method />
-    </configuration>
-    <configuration default="true" type="Remote" factoryName="Remote">
-      <option name="USE_SOCKET_TRANSPORT" value="true" />
-      <option name="SERVER_MODE" value="false" />
-      <option name="SHMEM_ADDRESS" value="javadebug" />
-      <option name="HOST" value="localhost" />
-      <option name="PORT" value="5005" />
-      <method />
-    </configuration>
-    <configuration default="true" type="FlexUnitRunConfigurationType" factoryName="FlexUnit" appDescriptorForEmulator="Android" class_name="" emulatorAdlOptions="" method_name="" output_log_level="null" package_name="" scope="Class">
-      <option name="BCName" value="" />
-      <option name="launcherParameters">
-        <LauncherParameters>
-          <option name="browserFamily" value="FIREFOX" />
-          <option name="launcherType" value="OSDefault" />
-          <option name="playerPath" value="/usr/bin/flashplayerdebugger" />
-        </LauncherParameters>
-      </option>
-      <option name="moduleName" value="" />
-      <option name="trusted" value="true" />
-      <method />
-    </configuration>
-    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
-      <module name="" />
-      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m" />
-      <option name="PROGRAM_PARAMETERS" />
-      <method />
-    </configuration>
-    <configuration default="true" type="JUnit" factoryName="JUnit">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <module name="" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="METHOD_NAME" />
-      <option name="TEST_OBJECT" value="class" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="moduleWithDependencies" />
-      </option>
-      <envs />
-      <patterns />
-      <method />
-    </configuration>
     <configuration default="true" type="FlashRunConfigurationType" factoryName="Flash App">
       <option name="BCName" value="" />
       <option name="IOSSimulatorSdkPath" value="" />
@@ -357,6 +505,67 @@
       <option name="usbDebugPort" value="7936" />
       <method />
     </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+      <method />
+    </configuration>
+    <configuration default="true" type="FlexUnitRunConfigurationType" factoryName="FlexUnit" appDescriptorForEmulator="Android" class_name="" emulatorAdlOptions="" method_name="" output_log_level="null" package_name="" scope="Class">
+      <option name="BCName" value="" />
+      <option name="launcherParameters">
+        <LauncherParameters>
+          <option name="browserFamily" value="FIREFOX" />
+          <option name="launcherType" value="OSDefault" />
+          <option name="playerPath" value="/usr/bin/flashplayerdebugger" />
+        </LauncherParameters>
+      </option>
+      <option name="moduleName" value="" />
+      <option name="trusted" value="true" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <module name="" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="HTML_FILE_NAME" />
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <option name="VM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method />
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m" />
+      <option name="PROGRAM_PARAMETERS" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <option name="MAIN_CLASS_NAME" />
@@ -372,6 +581,34 @@
       <envs />
       <method />
     </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
     <configuration default="false" name="HDVCS" type="FlashRunConfigurationType" factoryName="Flash App">
       <option name="BCName" value="HDVCS" />
       <option name="IOSSimulatorSdkPath" value="" />
@@ -379,7 +616,7 @@
       <option name="airProgramParameters" value="" />
       <option name="appDescriptorForEmulator" value="Android" />
       <option name="debugTransport" value="USB" />
-      <option name="debuggerSdkRaw" value="BC SDK" />
+      <option name="debuggerSdkRaw" value="FlexSDK" />
       <option name="emulator" value="NexusOne" />
       <option name="emulatorAdlOptions" value="" />
       <option name="fastPackaging" value="true" />
@@ -390,7 +627,7 @@
         <LauncherParameters>
           <option name="browserFamily" value="FIREFOX" />
           <option name="launcherType" value="Player" />
-          <option name="playerPath" value="$PROJECT_DIR$/../../LIBRARY/FlexSDK/runtimes/player/11.1/lnx/flashplayerdebugger" />
+          <option name="playerPath" value="$PROJECT_DIR$/../../../LIBRARY/FlexSDK/runtimes/player/11.1/lnx/flashplayerdebugger" />
         </LauncherParameters>
       </option>
       <option name="mobileRunTarget" value="Emulator" />
@@ -417,6 +654,24 @@
     </configuration>
   </component>
   <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration" maxAnnotateRevisions="500" myUseAcceleration="nothing" myAutoUpdateAfterCommit="false" cleanupOnStartRun="false">
+    <option name="USER" value="" />
+    <option name="PASSWORD" value="" />
+    <option name="mySSHConnectionTimeout" value="30000" />
+    <option name="mySSHReadTimeout" value="30000" />
+    <option name="LAST_MERGED_REVISION" />
+    <option name="MERGE_DRY_RUN" value="false" />
+    <option name="MERGE_DIFF_USE_ANCESTRY" value="true" />
+    <option name="UPDATE_LOCK_ON_DEMAND" value="false" />
+    <option name="IGNORE_SPACES_IN_MERGE" value="false" />
+    <option name="DETECT_NESTED_COPIES" value="true" />
+    <option name="CHECK_NESTED_FOR_QUICK_MERGE" value="false" />
+    <option name="IGNORE_SPACES_IN_ANNOTATE" value="true" />
+    <option name="SHOW_MERGE_SOURCES_IN_ANNOTATE" value="true" />
+    <option name="FORCE_UPDATE" value="false" />
+    <option name="IGNORE_EXTERNALS" value="false" />
+    <myIsUseDefaultProxy>false</myIsUseDefaultProxy>
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="972a2449-1de2-4823-a9da-a2dcb641cfe4" name="Default" comment="" />
@@ -429,30 +684,30 @@
     <frame x="65" y="24" width="1301" height="744" extended-state="6" />
     <editor active="false" />
     <layout>
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3296" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.20796813" sideWeight="0.9553429" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="IDEtalk Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="JetGradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3296" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="IDEtalk Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3296" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3296" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="JetGradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.22948207" sideWeight="0.9552" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3296" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3296" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
@@ -517,123 +772,162 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="uml://Flash/HDVCS:hdvcs.controller.Controller">
-      <provider selected="true" editor-type-id="UmlEditorProvider">
-        <state>
-          <ID>Flash</ID>
-          <OriginalElement>HDVCS:hdvcs.controller.Controller</OriginalElement>
-          <nodes>
-            <node x="" y="">HDVCS:hdvcs.controller.Controller</node>
-            <node x="" y="">HDVCS:hdvcs.abstractions.IExecutor</node>
-            <node x="" y="">Object</node>
-            <node x="" y="">HDVCS:hdvcs.abstractions.IProvider</node>
-          </nodes>
-          <notes />
-          <edges />
-          <settings layout="Hierarchic Group" zoom="1.0" x="95.0" y="253.0" />
-          <SelectedNodes />
-          <Categories>
-            <Category>Methods</Category>
-          </Categories>
-          <SCOPE>All</SCOPE>
-          <VISIBILITY>PRIVATE</VISIBILITY>
-        </state>
+    <entry file="file://$PROJECT_DIR$/src/hdvcs/controller/IController.as">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="15" column="57" selection-start="328" selection-end="328" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/hdvcs/controller/Controller.as">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="19" column="38" selection-start="418" selection-end="418" vertical-scroll-proportion="0.0" />
+        <state line="39" column="44" selection-start="1004" selection-end="1004" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/hdvcs/controller/ICommand.as">
+    <entry file="file://$PROJECT_DIR$/src/hdvcs/abstractions/IClient.as">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="47" selection-start="211" selection-end="211" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/hdvcs/context/IContext.as">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="47" selection-start="208" selection-end="208" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/hdvcs/data/IWrited.as">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="44" selection-start="244" selection-end="244" vertical-scroll-proportion="0.29950082" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/hdvcs/data/IReaded.as">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="38" selection-start="189" selection-end="189" vertical-scroll-proportion="0.27454242" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/hdvcs/data/IData.as">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="50" selection-start="166" selection-end="166" vertical-scroll-proportion="0.22462562" />
-      </provider>
-    </entry>
-    <entry file="uml://Flash/HDVCS:hdvcs.data.Data">
-      <provider selected="true" editor-type-id="UmlEditorProvider">
-        <state>
-          <ID>Flash</ID>
-          <OriginalElement>HDVCS:hdvcs.data.Data</OriginalElement>
-          <nodes>
-            <node x="" y="">HDVCS:hdvcs.data.IData</node>
-            <node x="" y="">HDVCS:hdvcs.data.Data</node>
-            <node x="" y="">Object</node>
-            <node x="" y="">HDVCS:hdvcs.data.IWrited</node>
-            <node x="" y="">HDVCS:hdvcs.data.IReaded</node>
-          </nodes>
-          <notes />
-          <edges />
-          <settings layout="Hierarchic Group" zoom="1.0" x="113.0" y="92.0" />
-          <SelectedNodes />
-          <Categories />
-          <SCOPE>All</SCOPE>
-          <VISIBILITY>PRIVATE</VISIBILITY>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/hdvcs/data/Data.as">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="19" selection-start="135" selection-end="135" vertical-scroll-proportion="0.22462562" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/hdvcs/data/IProxy.as">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="51" selection-start="167" selection-end="167" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/hdvcs/data/Proxy.as">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="21" column="38" selection-start="363" selection-end="363" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/hdvcs/service/IServiceManager.as">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/hdvcs/service/ServiceManager.as">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/hdvcs/service/IService.as">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="8" selection-start="215" selection-end="215" vertical-scroll-proportion="0.0" />
+        <state line="10" column="5" selection-start="158" selection-end="158" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/hdvcs/view/IMediator.as">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="29" selection-start="145" selection-end="145" vertical-scroll-proportion="0.074875206" />
+        <state line="15" column="33" selection-start="329" selection-end="329" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/simple_test_01/view/Button.as">
+    <entry file="file://$PROJECT_DIR$/src/simple_test_01/view/ButtonMediator.as">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="16" column="12" selection-start="268" selection-end="268" vertical-scroll-proportion="0.24958402">
+        <state line="24" column="12" selection-start="578" selection-end="578" vertical-scroll-proportion="0.0">
+          <folding>
+            <element signature="e#129#165#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/hdvcs/controller/ICommand.as">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="13" column="20" selection-start="238" selection-end="238" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/hdvcs/controller/Command.as">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="26" column="30" selection-start="534" selection-end="534" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/simple_test_01/controller/MyCommand.as">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="33" selection-start="128" selection-end="128" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/simple_test_01/T1Context.as">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="20" column="0" selection-start="377" selection-end="377" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/hdvcs/context/Context.as">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="24" column="23" selection-start="631" selection-end="631" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/hdvcs/context/IContext.as">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="11" column="40" selection-start="209" selection-end="209" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/hdvcs/service/IServiceManager.as">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/hdvcs/view/IMediatorManager.as">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="21" selection-start="137" selection-end="137" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/hdvcs/view/MediatorManager.as">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="16" column="37" selection-start="381" selection-end="381" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/hdvcs/service/ServiceManager.as">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/hdvcs/view/Mediator.as">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="17" column="55" selection-start="350" selection-end="350" vertical-scroll-proportion="0.28546712">
+          <folding>
+            <element signature="e#121#153#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>FlexSDK</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>FlexSDK</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
   </component>
 </project>
 

@@ -8,9 +8,11 @@
 package hdvcs.view
 {
     import hdvcs.abstractions.IClient;
+    import hdvcs.controller.IController;
 
     public interface IMediator extends IClient
     {
-
+        function GetController():IController;
+        function OnCreate():void;
     }
 }

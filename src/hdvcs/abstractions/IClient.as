@@ -9,7 +9,6 @@ package hdvcs.abstractions
 {
     public interface IClient
     {
-        function AddExecutor(executor:IExecutor):void;
         function TellAboutExecuted(task:ITask):void;
     }
 }
